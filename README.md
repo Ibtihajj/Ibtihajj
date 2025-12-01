@@ -1,4 +1,5 @@
 # Hello, I'm Ibtihaj
+
 <div>
 <a href="https://www.linkedin.com/in/ibtihajali/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,9 +15,13 @@
 Cybersecurity graduate exploring SOC and Blue Team practices.  
 Starting to build hands-on projects to strengthen my skills.
 
+---
+
 ## Objective
 Cybersecurity graduate eager to start a career in SOC.  
 Building hands-on projects to gain real-world experience.
+
+---
 
 ## Skills
 | Skill                  | Associated Project              |
@@ -25,12 +30,16 @@ Building hands-on projects to gain real-world experience.
 | Threat Detection Script| Brute Force Detector (Upcoming) |
 | Incident Documentation | Sample Incident Report (Upcoming) |
 
+---
+
 ## Tools
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-000000?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-LinkShadow-000000?&style=for-the-badge&logoColor=white" />
 </div>
+
+---
 
 ## Certifications
 <div>
@@ -39,6 +48,8 @@ Building hands-on projects to gain real-world experience.
 </div>
 
 *Note: Participated in defense training as part of the Blue Team, with hands-on practice using LinkShadow for network monitoring and threat detection.*
+
+---
 
 ## Projects
 - Apache Log Analysis (Upcoming)  
