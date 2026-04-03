@@ -26,9 +26,9 @@ Building hands-on projects to gain real-world experience.
 ## Skills
 | Skill                  | Associated Project              |
 |------------------------|---------------------------------|
-| Log Analysis           | Apache Log Analysis (Upcoming)  |
-| Threat Detection Script| Brute Force Detector (Upcoming) |
-| Incident Documentation | Sample Incident Report (Upcoming) |
+| -                      | -                               |
+| -                      | -                               |
+| -                      | -                               |
 
 ---
 
@@ -52,6 +52,6 @@ Building hands-on projects to gain real-world experience.
 ---
 
 ## Projects
-- Apache Log Analysis (Upcoming)  
-- Brute Force Detection Script (Upcoming)  
-- Sample Incident Report (Upcoming)  
+- 
+-  
+- 
